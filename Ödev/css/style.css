@@ -1,0 +1,72 @@
+body{
+    background-image: url("/image/genel.jpg");
+    position: fixed; 
+    background-size: cover;
+  top: 0; 
+  left: 0; 
+ 
+  background-repeat: no-repeat;
+
+}
+
+
+.ekranyazısı{
+
+    color: rgb(40, 184, 40);
+    position: relative;
+    left: 140%;
+    top: 330px;
+    font-size: large;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+#saniye{
+  color: red;
+  position: relative;
+  left: 115%;
+  top: 332px;
+  font-size: 30px;
+  margin: 0%;
+   
+}
+#dakika{
+  color: red;
+  position: relative;
+  left: 105%;
+  top: 396px;
+  font-size: 30px;
+}
+#saat{
+  color: red;
+  position: relative;
+  left: 98%;
+  top: 461px;
+  font-size: 30px;
+}
+
+#gün{
+
+position: relative;
+left: 272%;
+top: 274px;
+font-size: 40px;
+margin: 0%;
+  padding: 0%;
+}
+
+#ay{
+
+  position: relative;
+  left: 266%;
+  top: 268px;
+  font-size: 20px;
+  margin: 0%;
+  padding: 0%;
+}
+
+#yıl{
+  position: relative;
+  left: 270%;
+  top: 250px;
+  font-size: 26x;
+}

@@ -10,7 +10,7 @@ var dakika=tarih.getMinutes();
 var saniye=tarih.getSeconds();
 var yıl=tarih.getFullYear();
 var ay=tarih.getMonth();
-var gün=tarih.getDay();
+var gün=tarih.getDate();
 
 const ayism = ["Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos"
 ,"Eylül","Ekim","Kasım","Aralık"];
